@@ -1,0 +1,13 @@
+{
+  "debug": true,
+  "mongo.host": "mongodb",
+  "mongo.port": 27017,
+  "mongo.keepalive": true,
+  "stomp.server.host": "sa-amq",
+  "stomp.server.port": 5672,
+  "openwxapi.accesstoken": "https://api.weixin.qq.com/cgi-bin/token",
+  "openwxapi.appid": "wxd8e2dbb017af8b49",
+  "openwxapi.secret": "50ab6ee019c366b340e7a1f1210b26b3",
+  "openwxapi.secret": "50ab6ee019c366b340e7a1f1210b26b3",
+  "openwxapi.message.send": "https://api.weixin.qq.com/cgi-bin/message/custom/send"
+}
